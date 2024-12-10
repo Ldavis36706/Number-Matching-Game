@@ -5,3 +5,13 @@ Below you can see images of the game:
 <br/>
 <br/>
 ![Ready to Start](https://i.imgur.com/hlfVZ1w.png)
+
+When you select a matching pair the numbers will have a green outline to let you know you were successful:
+<br/>
+<br/>
+![Match found](https://i.imgur.com/SdQJh7I.png)
+
+The highest score is currently 14 tries:
+<br/>
+<br/>
+![Highest Score](https://i.imgur.com/EXcC135.png)
